@@ -14,3 +14,5 @@ Build a LSTM model to perform sentiment analysis for movie reviews using IMDB mo
 The general pipeline of deployment is :
 
 ![Deployment Pipeline][image1]
+
+Project Source : [Deep Learning Nanodegree from Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
